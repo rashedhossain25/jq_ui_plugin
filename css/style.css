@@ -1,0 +1,59 @@
+header{
+  font-size: 25px;
+}
+.hd ul li a{
+  color: black;
+}
+/*draggable*/
+#dragg{
+   width: 300px; 
+   height: 250px;
+   padding: 10px;
+   font-size: 30px;
+   background-color: red;
+}
+/*Droppable*/
+.cont{
+	overflow: hidden;
+}
+ #draggab {
+   margin: 10px 50px 10px 0; 
+   width: 150px; 
+   height: 130px;
+   background-color: red; 
+   padding: 5px; 
+   float: left; 
+   
+}
+  #droppab {
+   margin: 10px;
+   width: 250px; 
+   height: 200px;
+   padding: 10px; 
+   float: left; 
+  	 
+  }
+
+/*  Sortable*/
+  #short{
+    font-size: 20px; 
+  	list-style-type: none; 
+  	margin: 0; 
+  	padding: 0 0 100px; 
+  	width: 60%; 
+  }
+  #sortable ul li {
+  	margin: 0 3px 3px 3px; 
+  	padding: 0.4em; 
+  	padding-left: 1.5em; 
+  	font-size: 1.4em; 
+  	height: 18px; 
+  }
+  #sortable ul li span { 
+  	position: absolute; 
+  	margin-left: -1.3em; 
+  }
+  .c_style{
+  	padding: 10px 0;
+  	background-color: yellowgreen;
+  }

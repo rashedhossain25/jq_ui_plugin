@@ -1,0 +1,108 @@
+header{
+	font-size: 25px;
+}
+.hd ul li a{
+	color: black;
+}
+
+/*add class*/
+.toggler { 
+	width: 500px; 
+	height: 200px; 
+	position: relative; 
+}
+#button { 
+	padding: .5em 1em; 
+	text-decoration: none; 
+}
+#effects { 
+    width: 270px;
+    height: 140px;
+    padding: 5px;
+	border: 1px solid #000; 
+	background: #eee; 
+	color: #333; 
+}
+.newClas { 
+	text-indent: 40px; 
+	letter-spacing: .4em; 
+	width: 410px; 
+	height: 120px; 
+	padding: 30px; 
+	margin: 10px; 
+	font-size: 1.1em; 
+}
+
+/*hide*/
+
+  .toggler { 
+  	width: 500px; 
+  	height: 200px; 
+  }
+  #button {
+  	padding: .5em 1em; 
+  	text-decoration: none; 
+  }
+  #effect { 
+  	width: 240px; 
+  	height: 190px;
+  	padding: 0.4em; 
+  	position: relative; 
+  }
+  #effect h3 { 
+  	margin: 0; 
+  	padding: 0.4em; 
+  	text-align: center; 
+  }
+
+/*  remove class*/
+
+ .togglerr { 
+  width: 500px; 
+  height: 200px; 
+  position: relative; 
+}
+ #buttons { 
+  padding: .5em 1em; 
+  text-decoration: none; 
+}
+ #effecte { 
+  position: relative;  
+  width: 240px;
+  height: 135px;  
+  padding: 1em;  
+  letter-spacing: 0; 
+  font-size: 1.2em; 
+  border: 1px solid #000; 
+  background: #eee; 
+  color: #333; 
+}
+ .newCla { 
+  text-indent: 40px; 
+  letter-spacing: .4em; 
+  width: 410px; 
+  height: 100px;
+  padding: 30px; 
+  margin: 10px;
+  font-size: 1.6em; 
+}
+/*show*/
+  .togglerd { 
+  	width: 500px; 
+  	height: 200px; 
+  }
+  #buttond { 
+  	padding: .5em 1em; 
+  	text-decoration: none; 
+  }
+  #effectt { 
+  	width: 240px; 
+  	height: 170px; 
+  	padding: 0.4em; 
+  	position: relative; 
+  }
+  #effectt h3 { 
+  	margin: 0; 
+  	padding: 0.4em; 
+  	text-align: center; 
+  }
